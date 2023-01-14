@@ -43,6 +43,3 @@ That means you entered your credentials properly
 This project aims to create a bridge between Python and SQL and use it in real world problems/applications...
 
 This project is currently under development...
-
-# Done by:
-Om J Shah
